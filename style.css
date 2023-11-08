@@ -23,3 +23,11 @@ width: 30%;
 display: block;
 margin: auto;
 }
+
+ul{
+    font-size: 35px;
+}
+
+li{
+    font-size: 25px;
+}
