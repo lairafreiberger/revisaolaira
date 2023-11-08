@@ -31,3 +31,8 @@ ul{
 li{
     font-size: 27px;
 }
+
+iframe{
+    display: block;
+    margin: auto;
+}
